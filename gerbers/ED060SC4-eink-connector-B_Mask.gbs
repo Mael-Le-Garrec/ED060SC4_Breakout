@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(7.0.0)*
-G04 #@! TF.CreationDate,2023-04-01T00:53:13+02:00*
+G04 #@! TF.CreationDate,2023-04-01T01:03:18+02:00*
 G04 #@! TF.ProjectId,ED060SC4-eink-connector,45443036-3053-4433-942d-65696e6b2d63,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-04-01 00:53:13*
+G04 Created by KiCad (PCBNEW (7.0.0)) date 2023-04-01 01:03:18*
 %MOMM*%
 %LPD*%
 G01*

@@ -17,9 +17,6 @@ ibom.config.ini
 # Intermediate file use when generating the netlist
 *.xml
 
-# No need to save the gerber files, they can be regenerated
-gerbers
-
 # Free Routing
 *.rules
 *.bin
