@@ -7,11 +7,11 @@ symbol and footprint for the connector come from.
 
 # Images
 
-- Schematic
+- 3D View
 
 ![3D View](./images/3D_top_view.png)
 
-- 3D View
+- Schematic
 
 ![Schematic](./images/schematic.png)
 
