@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Local Footprints")(type "KiCad")(uri "/home/hatrix/Documents/kicad/ED060SC4-eink-connector/footprints_library")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ED060SC4")(type "Legacy")(uri "/home/hatrix/Documents/kicad/ED060SC4-eink-connector/symbols_library/ed060sc4.lib")(options "")(descr ""))
+)
