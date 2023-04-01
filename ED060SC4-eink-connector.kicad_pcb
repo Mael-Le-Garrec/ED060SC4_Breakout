@@ -543,7 +543,7 @@
   (gr_text "35 - U2CE2" (at 109.22 128.905) (layer "F.SilkS") (tstamp e1c60120-08b9-45e5-a3a6-697d08ebff94)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "3 - GND" (at 109.22 47.625) (layer "F.SilkS") (tstamp e8987398-4623-4a7e-a4e1-7800cb435349)
+  (gr_text "3 - GND (VSS)" (at 109.22 47.625) (layer "F.SilkS") (tstamp e8987398-4623-4a7e-a4e1-7800cb435349)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "8 - SHR" (at 109.22 60.325) (layer "F.SilkS") (tstamp ee302e2a-15a4-4dd5-995f-a90f7b65fcd2)
